@@ -1,0 +1,34 @@
+body {
+  background: rgba(211, 211, 211, 0.52);
+}
+i.code {
+  font-size: 2em;
+}
+.container.main {
+  margin-top: 7em;
+}
+#delete {
+  display: inline;
+}
+sub {
+  color: orange;
+}
+#header2 {
+  color: orange;
+}
+#header2 {
+  width: 100%;
+  height: 50px;
+  /* background: orange; */
+  padding-left: 5%;
+  padding-top: 5px;
+  opacity: 0.6;
+  border-radius: 4px;
+}
+footer {
+  background: orange;
+  opacity: 0.6;
+  text-align: center;
+  height: 30px;
+  padding: 5px;
+}
